@@ -128,3 +128,13 @@ Both algorithms were tested on the same datasets to compare:
 
 ### Requirements
 - Python 3.x
+
+- Author
+
+Asja Bašović
+International University of Sarajevo
+Spring 2025
+
+License
+
+This project is developed for educational purposes.
