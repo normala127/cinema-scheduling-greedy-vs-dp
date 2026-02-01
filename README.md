@@ -126,11 +126,5 @@ Both algorithms were tested on the same datasets to compare:
 
 ---
 
-## How to Run
-
 ### Requirements
 - Python 3.x
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
